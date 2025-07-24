@@ -1,0 +1,58 @@
+/* Base styling */
+body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+}
+
+/* Hero section */
+.hero {
+  text-align: center;
+  padding: 4rem 2rem 2rem;
+  background: #000;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  color: #e60023; /* Red accent */
+  margin-bottom: 0.5rem;
+}
+
+.tagline {
+  font-size: 1.2rem;
+  color: #fff;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Content sections */
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+h2 {
+  color: #e60023;
+  margin-bottom: 1rem;
+}
+
+ul {
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.8rem;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1.5rem;
+  background: #111;
+  color: #aaa;
+  font-size: 0.9rem;
+}
